@@ -1,0 +1,10 @@
+{
+  "name": "SignIn Form Boilerplate",
+  "icons": [{
+        "src": "/favicon.ico",
+        "sizes": "16x16"
+      }],
+  "start_url": "/",
+  "display": "browser",
+  "orientation": "portrait"
+}
